@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[odacova]]></title>
-        <description><![CDATA[odacova]]></description>
+        <title><![CDATA[A Love Letter To The Modern Hustle]]></title>
+        <description><![CDATA[A Love Letter To The Modern Hustle]]></description>
         <link>https://thegrid.ai/odacova/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 14 May 2016 17:22:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 May 2016 17:28:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/odacova/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[INT]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/af478c79-ff94-4fbe-a944-e4609ce7074b.jpg">]]></description>
+            <link>https://thegrid.ai/odacova/int/index.html</link>
+            <guid isPermaLink="false">a2ad4847-4a85-4fff-b937-e76c865e7df0</guid>
+            <pubDate>Sat, 14 May 2016 17:28:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae9e6142-5912-45ea-a7ee-071f97aa7400.jpg">]]></description>
